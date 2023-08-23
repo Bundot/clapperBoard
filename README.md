@@ -4,6 +4,6 @@
 
 # This design was inspired by a random figma user, can't really remember his name
 
-![App Demo](img1.jpg)
-![App Demo](img12.jpg)
-![Alt text](screenRec.gif) 
+![App Demo](assets/img1.jpg)
+![App Demo](assets/img2.jpg)
+![Alt text](assets/screenRec.gif) 
